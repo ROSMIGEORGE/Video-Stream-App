@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "live stream",
+      "description": "live stream of coding",
+      "id": 1
+    },
+    {
+      "title": "science experiment",
+      "description": "live streaming of science experiment",
+      "userId": "USER_ID",
+      "id": 2
+    },
+    {
+      "title": "history creation",
+      "description": "created history as separate component",
+      "userId": "USER_ID",
+      "id": 3
+    },
+    {
+      "title": "Me streaming",
+      "description": "Watch me refactoring components",
+      "id": 6
+    }
+  ]
+}
